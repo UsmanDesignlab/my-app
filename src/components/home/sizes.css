@@ -1,0 +1,218 @@
+@media screen and (max-width: 1400px) {
+  .many {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .many-two {
+    width: 420px;
+    height: 280px;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  .many {
+    gap: 10px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .many-two {
+    width: 410px;
+    height: 260px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .many {
+    gap: 10px;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .many-two {
+    width: 390px;
+    height: 270px;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  .many {
+    gap: 10px;
+    margin-left: 17px;
+    margin-right: 17px;
+  }
+
+  .many-two {
+    width: 380px;
+    height: 260px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .many {
+    gap: 10px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .many-two {
+    width: 360px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .many {
+    gap: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .many-two {
+    width: 345px;
+    height: 240px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .many-two {
+    width: 500px;
+    height: 350px;
+  }
+}
+
+
+@media screen and (max-width: 1050px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+
+  .many-two {
+    width: 470px;
+    height: 320px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .many {
+    gap: 8px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
+  .many-two {
+    width: 450px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .many-two {
+    width: 420px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+
+  .many-two {
+    width: 390px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .many-two {
+    width: 380px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .many-two {
+    width: 360px;
+    height: 240px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .many-two {
+    width: 350px;
+    height: 220px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .many {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-left: 4px;
+    margin-right: 3px;
+  }
+
+  .many-two {
+    width: 340px;
+    height: 210px;
+  }
+}
